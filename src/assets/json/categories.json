@@ -1,0 +1,26 @@
+[{
+    "img": "https://testing-e-commerce.vercel.app/static/media/SupplyToFarms.3f803d31c079449542b2.png",
+    "title": "Supply to Farms",
+    "status": "Not Available"
+},
+{
+    "img": "https://testing-e-commerce.vercel.app/static/media/SuplyToSlaughterhouses.3e438c392c2181ffce04.png",
+    "title": "Supply to Slaughterhouses",
+    "status": "Not Available"
+}
+,
+{
+    "img": "https://testing-e-commerce.vercel.app/static/media/MeatOffer.ba4205b8dc46d1f5d60f.png",
+    "title": "Meat Offer",
+    "status": "Not Available"
+},
+{
+    "img": "https://testing-e-commerce.vercel.app/static/media/SupplyToRenderers.ff9c2e77d5b972223d92.png",
+    "title": "Supply to Renderers",
+    "status": "Not Available"
+},
+{
+    "img": "https://testing-e-commerce.vercel.app/static/media/Machinery-and-Equipment.15a0b9c7581dc852479b.webp",
+    "title": "Machinery and Equipment",
+    "status": "Not Available"
+}]
